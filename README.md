@@ -1,6 +1,11 @@
 # SC-200 Anki Flashcards
 
-![SC-200 Anki Flashcards](banner.png)
+<p align="center">
+  <img src="banner.png" alt="SC-200 Anki Flashcards Banner" height="420">
+</p>
+
+
+
 
 Flashcards to help prepare for the **Microsoft SC-200: Security Operations Analyst** exam.  
 All cards are provided in **TSV format** (easy to import into Anki).  
