@@ -1,6 +1,7 @@
 # SC-200 Anki Flashcards
 
-![SC-200 Anki Flashcards](banner.png)
+![SC-200 Anki Flashcards](sc200-anki-flashcards/banner.png)
+
 
 
 Flashcards for Microsoft SC-200 exam, in Anki-ready TSV format.
