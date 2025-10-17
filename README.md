@@ -6,6 +6,19 @@ Flashcards to help prepare for the **Microsoft SC-200: Security Operations Analy
 All cards are provided in **TSV format** (easy to import into Anki).  
 
 ---
+---
+
+## 📝 Sample Cards
+
+| Front | Back |
+|-------|------|
+| In Microsoft Sentinel, which KQL operator is used to filter rows based on a condition? | `where` |
+| Which Microsoft 365 Defender product is designed to protect endpoint devices? | Microsoft Defender for Endpoint |
+| What is the default log retention period in Microsoft Sentinel? | 90 days (configurable) |
+| In Defender for Cloud, which feature provides secure score recommendations? | Secure Score |
+| During incident response, what step comes immediately after detection? | Containment |
+
+---
 
 ## 📥 Download Decks
 
