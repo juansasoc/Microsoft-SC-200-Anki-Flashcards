@@ -25,36 +25,26 @@ All cards are provided in **TSV format** (easy to import into Anki).
 
 ---
 
-## 📥 Download Decks
-
-You can download the TSV files directly from GitHub and import them into Anki.
-
-### Sections
-- [Sentinel](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/sections/sentinel.tsv)
-- [M365 Defender](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/sections/m365_defender.tsv)
-- [Defender for Cloud](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/sections/defender_cloud.tsv)
-- [KQL](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/sections/kql.tsv)
-- [SOC & Incident Response](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/sections/soc_ir.tsv)
-
-### Exam Packs
-- [Exam 1](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/exams/exam1.tsv)
-- [Exam 2](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/exams/exam2.tsv)
-- [Exam 3](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/exams/exam3.tsv)
-- [Combined Pack](https://raw.githubusercontent.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/main/exams/combined_pack.tsv)
-
----
-# 📘 Microsoft SC-200 Anki Flashcards
-
-Flashcards for the **Microsoft SC-200: Security Operations Analyst** exam, designed in **scenario style** to mimic real exam case studies.  
+## 📂 Flashcard Downloads  
 
 ---
 
-## 📂 Flashcard Sets (Direct Download Links)
+### 📝 Exam Packs (fact-based flashcards)  
+| Pack | File | Description |  
+|------|------|-------------|  
+| **Exam 1** | [Download](Exam1.tsv) | Core SC-200 facts aligned to Microsoft Learn modules |  
+| **Exam 2** | [Download](Exam2.tsv) | More practice flashcards for exam prep |  
+| **Exam 3** | [Download](Exam3.tsv) | Additional SC-200 coverage |  
+| **Combined Pack** | [Download](Exam_Combined.tsv) | All exam packs merged |  
 
-| Set | File | Topics |
-|-----|------|--------|
-| **Set 1** | [Download TSV](SC-200_Scenario_Cards_Set1.tsv) | Sentinel incidents, automation, KQL basics (extend, join, outliers), watchlists, Secure Score, threat intel |
-| **Set 2** | [Download TSV](SC-200_Scenario_Cards_Set2.tsv) | Incident response (isolation, blocking, live response), UEBA/Fusion ML, advanced automation, threat hunting (Kerberos, RDP, persistence, exfiltration) |
+---
+
+### 🎯 Scenario Sets (applied, case-style flashcards)  
+| Set | File | Focus Areas |  
+|-----|------|-------------|  
+| **Set 1** | [Download](SC-200_Scenario_Cards_Set1.tsv) | Sentinel incidents, automation, KQL basics, watchlists, Secure Score |  
+| **Set 2** | [Download](SC-200_Scenario_Cards_Set2.tsv) | Incident response, UEBA/Fusion ML, advanced automation, threat hunting |  
+
 
 
 
