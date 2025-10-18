@@ -1,0 +1,28 @@
+What is the first step in incident triage?	Validate the alert and determine severity.	SOC_IR::Triage
+Which Sentinel feature correlates anomalies across entities?	Fusion ML rules.	SOC_IR::Fusion
+What is UEBA used for?	Detecting abnormal behavior of users/entities.	SOC_IR::UEBA
+Sample Q4 for SOC_IR.tsv	Sample Answer 4	SOC_IR::Extra
+Sample Q5 for SOC_IR.tsv	Sample Answer 5	SOC_IR::Extra
+Sample Q6 for SOC_IR.tsv	Sample Answer 6	SOC_IR::Extra
+Sample Q7 for SOC_IR.tsv	Sample Answer 7	SOC_IR::Extra
+Sample Q8 for SOC_IR.tsv	Sample Answer 8	SOC_IR::Extra
+Sample Q9 for SOC_IR.tsv	Sample Answer 9	SOC_IR::Extra
+Sample Q10 for SOC_IR.tsv	Sample Answer 10	SOC_IR::Extra
+Sample Q11 for SOC_IR.tsv	Sample Answer 11	SOC_IR::Extra
+Sample Q12 for SOC_IR.tsv	Sample Answer 12	SOC_IR::Extra
+Sample Q13 for SOC_IR.tsv	Sample Answer 13	SOC_IR::Extra
+Sample Q14 for SOC_IR.tsv	Sample Answer 14	SOC_IR::Extra
+Sample Q15 for SOC_IR.tsv	Sample Answer 15	SOC_IR::Extra
+Sample Q16 for SOC_IR.tsv	Sample Answer 16	SOC_IR::Extra
+Sample Q17 for SOC_IR.tsv	Sample Answer 17	SOC_IR::Extra
+Sample Q18 for SOC_IR.tsv	Sample Answer 18	SOC_IR::Extra
+Sample Q19 for SOC_IR.tsv	Sample Answer 19	SOC_IR::Extra
+Sample Q20 for SOC_IR.tsv	Sample Answer 20	SOC_IR::Extra
+Sample Q21 for SOC_IR.tsv	Sample Answer 21	SOC_IR::Extra
+Sample Q22 for SOC_IR.tsv	Sample Answer 22	SOC_IR::Extra
+Sample Q23 for SOC_IR.tsv	Sample Answer 23	SOC_IR::Extra
+Sample Q24 for SOC_IR.tsv	Sample Answer 24	SOC_IR::Extra
+Sample Q25 for SOC_IR.tsv	Sample Answer 25	SOC_IR::Extra
+Sample Q26 for SOC_IR.tsv	Sample Answer 26	SOC_IR::Extra
+Sample Q27 for SOC_IR.tsv	Sample Answer 27	SOC_IR::Extra
+Sample Q28 for SOC_IR.tsv	Sample Answer 28	SOC_IR::Extra

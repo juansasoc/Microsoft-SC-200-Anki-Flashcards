@@ -1,0 +1,28 @@
+What does Secure Score measure?	The security posture of your environment based on implemented recommendations.	DefenderForCloud::SecureScore
+What feature restricts RDP/SSH access to VMs?	Just-in-Time VM access.	DefenderForCloud::JIT
+Which blade shows prioritized hardening actions?	Recommendations.	DefenderForCloud::Recommendations
+Sample Q4 for Defender_for_Cloud.tsv	Sample Answer 4	Defender_for_Cloud::Extra
+Sample Q5 for Defender_for_Cloud.tsv	Sample Answer 5	Defender_for_Cloud::Extra
+Sample Q6 for Defender_for_Cloud.tsv	Sample Answer 6	Defender_for_Cloud::Extra
+Sample Q7 for Defender_for_Cloud.tsv	Sample Answer 7	Defender_for_Cloud::Extra
+Sample Q8 for Defender_for_Cloud.tsv	Sample Answer 8	Defender_for_Cloud::Extra
+Sample Q9 for Defender_for_Cloud.tsv	Sample Answer 9	Defender_for_Cloud::Extra
+Sample Q10 for Defender_for_Cloud.tsv	Sample Answer 10	Defender_for_Cloud::Extra
+Sample Q11 for Defender_for_Cloud.tsv	Sample Answer 11	Defender_for_Cloud::Extra
+Sample Q12 for Defender_for_Cloud.tsv	Sample Answer 12	Defender_for_Cloud::Extra
+Sample Q13 for Defender_for_Cloud.tsv	Sample Answer 13	Defender_for_Cloud::Extra
+Sample Q14 for Defender_for_Cloud.tsv	Sample Answer 14	Defender_for_Cloud::Extra
+Sample Q15 for Defender_for_Cloud.tsv	Sample Answer 15	Defender_for_Cloud::Extra
+Sample Q16 for Defender_for_Cloud.tsv	Sample Answer 16	Defender_for_Cloud::Extra
+Sample Q17 for Defender_for_Cloud.tsv	Sample Answer 17	Defender_for_Cloud::Extra
+Sample Q18 for Defender_for_Cloud.tsv	Sample Answer 18	Defender_for_Cloud::Extra
+Sample Q19 for Defender_for_Cloud.tsv	Sample Answer 19	Defender_for_Cloud::Extra
+Sample Q20 for Defender_for_Cloud.tsv	Sample Answer 20	Defender_for_Cloud::Extra
+Sample Q21 for Defender_for_Cloud.tsv	Sample Answer 21	Defender_for_Cloud::Extra
+Sample Q22 for Defender_for_Cloud.tsv	Sample Answer 22	Defender_for_Cloud::Extra
+Sample Q23 for Defender_for_Cloud.tsv	Sample Answer 23	Defender_for_Cloud::Extra
+Sample Q24 for Defender_for_Cloud.tsv	Sample Answer 24	Defender_for_Cloud::Extra
+Sample Q25 for Defender_for_Cloud.tsv	Sample Answer 25	Defender_for_Cloud::Extra
+Sample Q26 for Defender_for_Cloud.tsv	Sample Answer 26	Defender_for_Cloud::Extra
+Sample Q27 for Defender_for_Cloud.tsv	Sample Answer 27	Defender_for_Cloud::Extra
+Sample Q28 for Defender_for_Cloud.tsv	Sample Answer 28	Defender_for_Cloud::Extra

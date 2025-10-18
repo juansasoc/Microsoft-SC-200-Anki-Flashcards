@@ -1,0 +1,28 @@
+Which operator creates new calculated columns?	extend	KQL::Operators
+Which operator combines rows with the same value?	summarize by	KQL::Operators
+Which function checks if a string starts with a given prefix?	startswith()	KQL::Functions
+Sample Q4 for KQL.tsv	Sample Answer 4	KQL::Extra
+Sample Q5 for KQL.tsv	Sample Answer 5	KQL::Extra
+Sample Q6 for KQL.tsv	Sample Answer 6	KQL::Extra
+Sample Q7 for KQL.tsv	Sample Answer 7	KQL::Extra
+Sample Q8 for KQL.tsv	Sample Answer 8	KQL::Extra
+Sample Q9 for KQL.tsv	Sample Answer 9	KQL::Extra
+Sample Q10 for KQL.tsv	Sample Answer 10	KQL::Extra
+Sample Q11 for KQL.tsv	Sample Answer 11	KQL::Extra
+Sample Q12 for KQL.tsv	Sample Answer 12	KQL::Extra
+Sample Q13 for KQL.tsv	Sample Answer 13	KQL::Extra
+Sample Q14 for KQL.tsv	Sample Answer 14	KQL::Extra
+Sample Q15 for KQL.tsv	Sample Answer 15	KQL::Extra
+Sample Q16 for KQL.tsv	Sample Answer 16	KQL::Extra
+Sample Q17 for KQL.tsv	Sample Answer 17	KQL::Extra
+Sample Q18 for KQL.tsv	Sample Answer 18	KQL::Extra
+Sample Q19 for KQL.tsv	Sample Answer 19	KQL::Extra
+Sample Q20 for KQL.tsv	Sample Answer 20	KQL::Extra
+Sample Q21 for KQL.tsv	Sample Answer 21	KQL::Extra
+Sample Q22 for KQL.tsv	Sample Answer 22	KQL::Extra
+Sample Q23 for KQL.tsv	Sample Answer 23	KQL::Extra
+Sample Q24 for KQL.tsv	Sample Answer 24	KQL::Extra
+Sample Q25 for KQL.tsv	Sample Answer 25	KQL::Extra
+Sample Q26 for KQL.tsv	Sample Answer 26	KQL::Extra
+Sample Q27 for KQL.tsv	Sample Answer 27	KQL::Extra
+Sample Q28 for KQL.tsv	Sample Answer 28	KQL::Extra

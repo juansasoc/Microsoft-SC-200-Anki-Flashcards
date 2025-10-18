@@ -1,0 +1,28 @@
+What is an incident in Microsoft Sentinel?	A group of related alerts aggregated into a single case for investigation.	Sentinel::Incidents
+Which Sentinel feature lets you import logs from M365?	Data connectors such as Microsoft 365 Defender connector.	Sentinel::Connectors
+What does an automation rule do?	Automatically modifies or responds to incidents when conditions are met.	Sentinel::Automation
+Sample Q4 for Sentinel.tsv	Sample Answer 4	Sentinel::Extra
+Sample Q5 for Sentinel.tsv	Sample Answer 5	Sentinel::Extra
+Sample Q6 for Sentinel.tsv	Sample Answer 6	Sentinel::Extra
+Sample Q7 for Sentinel.tsv	Sample Answer 7	Sentinel::Extra
+Sample Q8 for Sentinel.tsv	Sample Answer 8	Sentinel::Extra
+Sample Q9 for Sentinel.tsv	Sample Answer 9	Sentinel::Extra
+Sample Q10 for Sentinel.tsv	Sample Answer 10	Sentinel::Extra
+Sample Q11 for Sentinel.tsv	Sample Answer 11	Sentinel::Extra
+Sample Q12 for Sentinel.tsv	Sample Answer 12	Sentinel::Extra
+Sample Q13 for Sentinel.tsv	Sample Answer 13	Sentinel::Extra
+Sample Q14 for Sentinel.tsv	Sample Answer 14	Sentinel::Extra
+Sample Q15 for Sentinel.tsv	Sample Answer 15	Sentinel::Extra
+Sample Q16 for Sentinel.tsv	Sample Answer 16	Sentinel::Extra
+Sample Q17 for Sentinel.tsv	Sample Answer 17	Sentinel::Extra
+Sample Q18 for Sentinel.tsv	Sample Answer 18	Sentinel::Extra
+Sample Q19 for Sentinel.tsv	Sample Answer 19	Sentinel::Extra
+Sample Q20 for Sentinel.tsv	Sample Answer 20	Sentinel::Extra
+Sample Q21 for Sentinel.tsv	Sample Answer 21	Sentinel::Extra
+Sample Q22 for Sentinel.tsv	Sample Answer 22	Sentinel::Extra
+Sample Q23 for Sentinel.tsv	Sample Answer 23	Sentinel::Extra
+Sample Q24 for Sentinel.tsv	Sample Answer 24	Sentinel::Extra
+Sample Q25 for Sentinel.tsv	Sample Answer 25	Sentinel::Extra
+Sample Q26 for Sentinel.tsv	Sample Answer 26	Sentinel::Extra
+Sample Q27 for Sentinel.tsv	Sample Answer 27	Sentinel::Extra
+Sample Q28 for Sentinel.tsv	Sample Answer 28	Sentinel::Extra
