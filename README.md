@@ -51,8 +51,11 @@ Flashcards for the **Microsoft SC-200: Security Operations Analyst** exam, desig
 
 ## 📂 Flashcard Sets (Direct Download Links)
 
-| **Set 1** | [Download TSV](SC-200_Scenario_Cards_Set1.tsv) | ...
-| **Set 2** | [Download TSV](SC-200_Scenario_Cards_Set2.tsv) | ...
+| Set | File | Topics |
+|-----|------|--------|
+| **Set 1** | [Download TSV](SC-200_Scenario_Cards_Set1.tsv) | Sentinel incidents, automation, KQL basics (extend, join, outliers), watchlists, Secure Score, threat intel |
+| **Set 2** | [Download TSV](SC-200_Scenario_Cards_Set2.tsv) | Incident response (isolation, blocking, live response), UEBA/Fusion ML, advanced automation, threat hunting (Kerberos, RDP, persistence, exfiltration) |
+
 
 
 ---
