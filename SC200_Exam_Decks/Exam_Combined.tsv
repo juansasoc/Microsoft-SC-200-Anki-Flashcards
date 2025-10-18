@@ -1,0 +1,84 @@
+What is Microsoft Sentinel?	A cloud-native SIEM and SOAR solution.	Exam1::Sentinel
+Which log source is used for Azure AD sign-ins?	SigninLogs table.	Exam1::AzureAD
+What is the purpose of KQL?	To query and analyze log data in Sentinel.	Exam1::KQL
+Sample Q4 for Exam1.tsv	Sample Answer 4	Exam1::Extra
+Sample Q5 for Exam1.tsv	Sample Answer 5	Exam1::Extra
+Sample Q6 for Exam1.tsv	Sample Answer 6	Exam1::Extra
+Sample Q7 for Exam1.tsv	Sample Answer 7	Exam1::Extra
+Sample Q8 for Exam1.tsv	Sample Answer 8	Exam1::Extra
+Sample Q9 for Exam1.tsv	Sample Answer 9	Exam1::Extra
+Sample Q10 for Exam1.tsv	Sample Answer 10	Exam1::Extra
+Sample Q11 for Exam1.tsv	Sample Answer 11	Exam1::Extra
+Sample Q12 for Exam1.tsv	Sample Answer 12	Exam1::Extra
+Sample Q13 for Exam1.tsv	Sample Answer 13	Exam1::Extra
+Sample Q14 for Exam1.tsv	Sample Answer 14	Exam1::Extra
+Sample Q15 for Exam1.tsv	Sample Answer 15	Exam1::Extra
+Sample Q16 for Exam1.tsv	Sample Answer 16	Exam1::Extra
+Sample Q17 for Exam1.tsv	Sample Answer 17	Exam1::Extra
+Sample Q18 for Exam1.tsv	Sample Answer 18	Exam1::Extra
+Sample Q19 for Exam1.tsv	Sample Answer 19	Exam1::Extra
+Sample Q20 for Exam1.tsv	Sample Answer 20	Exam1::Extra
+Sample Q21 for Exam1.tsv	Sample Answer 21	Exam1::Extra
+Sample Q22 for Exam1.tsv	Sample Answer 22	Exam1::Extra
+Sample Q23 for Exam1.tsv	Sample Answer 23	Exam1::Extra
+Sample Q24 for Exam1.tsv	Sample Answer 24	Exam1::Extra
+Sample Q25 for Exam1.tsv	Sample Answer 25	Exam1::Extra
+Sample Q26 for Exam1.tsv	Sample Answer 26	Exam1::Extra
+Sample Q27 for Exam1.tsv	Sample Answer 27	Exam1::Extra
+Sample Q28 for Exam1.tsv	Sample Answer 28	Exam1::Extra
+Which Defender product monitors endpoints?	Microsoft Defender for Endpoint.	Exam2::MDE
+What is an Analytics Rule?	A rule that generates alerts based on KQL queries.	Exam2::Sentinel
+Which operator in KQL is used to filter results?	where	Exam2::KQL
+Sample Q4 for Exam2.tsv	Sample Answer 4	Exam2::Extra
+Sample Q5 for Exam2.tsv	Sample Answer 5	Exam2::Extra
+Sample Q6 for Exam2.tsv	Sample Answer 6	Exam2::Extra
+Sample Q7 for Exam2.tsv	Sample Answer 7	Exam2::Extra
+Sample Q8 for Exam2.tsv	Sample Answer 8	Exam2::Extra
+Sample Q9 for Exam2.tsv	Sample Answer 9	Exam2::Extra
+Sample Q10 for Exam2.tsv	Sample Answer 10	Exam2::Extra
+Sample Q11 for Exam2.tsv	Sample Answer 11	Exam2::Extra
+Sample Q12 for Exam2.tsv	Sample Answer 12	Exam2::Extra
+Sample Q13 for Exam2.tsv	Sample Answer 13	Exam2::Extra
+Sample Q14 for Exam2.tsv	Sample Answer 14	Exam2::Extra
+Sample Q15 for Exam2.tsv	Sample Answer 15	Exam2::Extra
+Sample Q16 for Exam2.tsv	Sample Answer 16	Exam2::Extra
+Sample Q17 for Exam2.tsv	Sample Answer 17	Exam2::Extra
+Sample Q18 for Exam2.tsv	Sample Answer 18	Exam2::Extra
+Sample Q19 for Exam2.tsv	Sample Answer 19	Exam2::Extra
+Sample Q20 for Exam2.tsv	Sample Answer 20	Exam2::Extra
+Sample Q21 for Exam2.tsv	Sample Answer 21	Exam2::Extra
+Sample Q22 for Exam2.tsv	Sample Answer 22	Exam2::Extra
+Sample Q23 for Exam2.tsv	Sample Answer 23	Exam2::Extra
+Sample Q24 for Exam2.tsv	Sample Answer 24	Exam2::Extra
+Sample Q25 for Exam2.tsv	Sample Answer 25	Exam2::Extra
+Sample Q26 for Exam2.tsv	Sample Answer 26	Exam2::Extra
+Sample Q27 for Exam2.tsv	Sample Answer 27	Exam2::Extra
+Sample Q28 for Exam2.tsv	Sample Answer 28	Exam2::Extra
+What feature in Defender for Cloud helps control VM access?	Just-in-Time VM access.	Exam3::DefenderForCloud
+What does UEBA stand for?	User and Entity Behavior Analytics.	Exam3::UEBA
+Which log contains Windows security events?	SecurityEvent table.	Exam3::Logs
+Sample Q4 for Exam3.tsv	Sample Answer 4	Exam3::Extra
+Sample Q5 for Exam3.tsv	Sample Answer 5	Exam3::Extra
+Sample Q6 for Exam3.tsv	Sample Answer 6	Exam3::Extra
+Sample Q7 for Exam3.tsv	Sample Answer 7	Exam3::Extra
+Sample Q8 for Exam3.tsv	Sample Answer 8	Exam3::Extra
+Sample Q9 for Exam3.tsv	Sample Answer 9	Exam3::Extra
+Sample Q10 for Exam3.tsv	Sample Answer 10	Exam3::Extra
+Sample Q11 for Exam3.tsv	Sample Answer 11	Exam3::Extra
+Sample Q12 for Exam3.tsv	Sample Answer 12	Exam3::Extra
+Sample Q13 for Exam3.tsv	Sample Answer 13	Exam3::Extra
+Sample Q14 for Exam3.tsv	Sample Answer 14	Exam3::Extra
+Sample Q15 for Exam3.tsv	Sample Answer 15	Exam3::Extra
+Sample Q16 for Exam3.tsv	Sample Answer 16	Exam3::Extra
+Sample Q17 for Exam3.tsv	Sample Answer 17	Exam3::Extra
+Sample Q18 for Exam3.tsv	Sample Answer 18	Exam3::Extra
+Sample Q19 for Exam3.tsv	Sample Answer 19	Exam3::Extra
+Sample Q20 for Exam3.tsv	Sample Answer 20	Exam3::Extra
+Sample Q21 for Exam3.tsv	Sample Answer 21	Exam3::Extra
+Sample Q22 for Exam3.tsv	Sample Answer 22	Exam3::Extra
+Sample Q23 for Exam3.tsv	Sample Answer 23	Exam3::Extra
+Sample Q24 for Exam3.tsv	Sample Answer 24	Exam3::Extra
+Sample Q25 for Exam3.tsv	Sample Answer 25	Exam3::Extra
+Sample Q26 for Exam3.tsv	Sample Answer 26	Exam3::Extra
+Sample Q27 for Exam3.tsv	Sample Answer 27	Exam3::Extra
+Sample Q28 for Exam3.tsv	Sample Answer 28	Exam3::Extra
