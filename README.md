@@ -26,6 +26,14 @@ All cards are provided in **TSV format** (easy to import into Anki).
 ---
 
 ## 📂 Flashcard Downloads  
+### 📑 Section Decks  
+| Section | File | Topics |  
+|---------|------|--------|  
+| **Sentinel** | [Download](Sentinel.tsv) | SIEM, analytics rules, incidents, hunting |  
+| **M365 Defender** | [Download](M365_Defender.tsv) | EDR, investigation, automated response |  
+| **Defender for Cloud** | [Download](Defender_for_Cloud.tsv) | Recommendations, Secure Score, compliance |  
+| **KQL** | [Download](KQL.tsv) | Queries, operators, joins, filtering, summarization |  
+| **SOC & Incident Response** | [Download](SOC_IR.tsv) | Playbooks, automation, incident triage |  
 
 ---
 
