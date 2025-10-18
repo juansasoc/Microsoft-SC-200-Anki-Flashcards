@@ -22,16 +22,6 @@ Flashcards for the **Microsoft SC-200: Security Operations Analyst** exam, desig
 
 ---
 
-## 📌 Suggested Repository Structure
-```
-/Microsoft-SC-200-Anki-Flashcards
-  ├─ /img
-  ├─ /tsv
-  │   ├─ SC-200_Scenario_Cards_Set1.tsv
-  │   └─ SC-200_Scenario_Cards_Set2.tsv
-  ├─ README.md
-  └─ banner.png
-```
 
 ---
 
