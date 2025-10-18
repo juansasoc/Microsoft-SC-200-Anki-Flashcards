@@ -26,32 +26,37 @@ All cards are provided in **TSV format** (easy to import into Anki).
 ---
 
 ## 📂 Flashcard Downloads  
-### 📑 Section Decks  
+ 
+
+---
+
+### 📑 Section Decks — *Best for topic-by-topic study*  
 | Section | File | Topics |  
 |---------|------|--------|  
-| **Sentinel** | [Download](Sentinel.tsv) | SIEM, analytics rules, incidents, hunting |  
-| **M365 Defender** | [Download](M365_Defender.tsv) | EDR, investigation, automated response |  
-| **Defender for Cloud** | [Download](Defender_for_Cloud.tsv) | Recommendations, Secure Score, compliance |  
-| **KQL** | [Download](KQL.tsv) | Queries, operators, joins, filtering, summarization |  
-| **SOC & Incident Response** | [Download](SOC_IR.tsv) | Playbooks, automation, incident triage |  
+| **Sentinel** | [Download](sections/Sentinel.tsv) | SIEM, analytics rules, incidents, hunting |  
+| **M365 Defender** | [Download](sections/M365_Defender.tsv) | EDR, investigation, automated response |  
+| **Defender for Cloud** | [Download](sections/Defender_for_Cloud.tsv) | Recommendations, Secure Score, compliance |  
+| **KQL** | [Download](sections/KQL.tsv) | Queries, operators, joins, filtering, summarization |  
+| **SOC & Incident Response** | [Download](sections/SOC_IR.tsv) | Playbooks, automation, incident triage |  
 
 ---
 
-### 📝 Exam Packs (fact-based flashcards)  
+### 📝 Exam Packs — *Best for quick knowledge recall*  
 | Pack | File | Description |  
 |------|------|-------------|  
-| **Exam 1** | [Download](Exam1.tsv) | Core SC-200 facts aligned to Microsoft Learn modules |  
-| **Exam 2** | [Download](Exam2.tsv) | More practice flashcards for exam prep |  
-| **Exam 3** | [Download](Exam3.tsv) | Additional SC-200 coverage |  
-| **Combined Pack** | [Download](Exam_Combined.tsv) | All exam packs merged |  
+| **Exam 1** | [Download](exams/Exam1.tsv) | Core SC-200 facts aligned to Microsoft Learn modules |  
+| **Exam 2** | [Download](exams/Exam2.tsv) | More practice flashcards for exam prep |  
+| **Exam 3** | [Download](exams/Exam3.tsv) | Additional SC-200 coverage |  
+| **Combined Pack** | [Download](exams/Exam_Combined.tsv) | All exam packs merged |  
 
 ---
 
-### 🎯 Scenario Sets (applied, case-style flashcards)  
+### 🎯 Scenario Sets — *Best for exam-style applied practice*  
 | Set | File | Focus Areas |  
 |-----|------|-------------|  
 | **Set 1** | [Download](SC-200_Scenario_Cards_Set1.tsv) | Sentinel incidents, automation, KQL basics, watchlists, Secure Score |  
 | **Set 2** | [Download](SC-200_Scenario_Cards_Set2.tsv) | Incident response, UEBA/Fusion ML, advanced automation, threat hunting |  
+
 
 
 
