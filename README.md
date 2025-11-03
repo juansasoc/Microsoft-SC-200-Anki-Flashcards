@@ -1,141 +1,104 @@
-# SC-200 Anki Flashcards
-
 <p align="center">
-  <img src="banner.png" alt="SC-200 Anki Flashcards Banner" height="420">
+  <img src="banner.png" alt="SC-200 Microsoft Security Operations Analyst - Anki Flashcards Banner" width="90%">
 </p>
 
+# SC-200 Microsoft Security Operations Analyst – Anki Flashcards
 
-
-
-Flashcards to help prepare for the **Microsoft SC-200: Security Operations Analyst** exam.  
-All cards are provided in **TSV format** (easy to import into Anki).  
-
----
----
-
-## 📝 Sample Cards
-
-| Front | Back |
-|-------|------|
-| In Microsoft Sentinel, which KQL operator is used to filter rows based on a condition? | `where` |
-| Which Microsoft 365 Defender product is designed to protect endpoint devices? | Microsoft Defender for Endpoint |
-| What is the default log retention period in Microsoft Sentinel? | 90 days (configurable) |
-| In Defender for Cloud, which feature provides secure score recommendations? | Secure Score |
-| During incident response, what step comes immediately after detection? | Containment |
+Flashcards to help prepare for **Microsoft Certified: Security Operations Analyst Associate (Exam SC-200)**.  
+All cards are provided in `.tsv` for easy import into Anki and optionally packaged as `.apkg` releases.
 
 ---
 
-## 📂 Flashcard Downloads  
- 
+## 🧪 Official Hands-on Labs for SC-200
+
+👉 **Microsoft Learning – SC-200 Labs (GitHub)**  
+https://github.com/MicrosoftLearning/SC-200T00A-Microsoft-Security-Operations-Analyst
+
+**Why this matters for the exam**  
+These Microsoft-authored labs align with SC-200 objectives across **Microsoft Sentinel**, **Defender XDR**, and **Defender for Cloud**, reinforcing the same workflows you’ll see on the exam and in real-world SOC operations.
+
+**How to use with this repo**
+- Complete the relevant lab, then review the matching deck (**Sentinel**, **M365 Defender**, **Defender for Cloud**, **KQL**, **SOC/IR**).
+- For incident-style exercises, drill the **Scenario Sets** below.
+- Before practice assessments, run an **Exam Pack** and revisit any weak areas from the labs.
 
 ---
 
-### 📑 Section Decks — *Best for topic-by-topic study*  
-| Section | File | Topics |  
-|---------|------|--------|  
-| **Sentinel** | [Download](sections/Sentinel.tsv) | SIEM, analytics rules, incidents, hunting |  
-| **M365 Defender** | [Download](sections/M365_Defender.tsv) | EDR, investigation, automated response |  
-| **Defender for Cloud** | [Download](sections/Defender_for_Cloud.tsv) | Recommendations, Secure Score, compliance |  
-| **KQL** | [Download](sections/KQL.tsv) | Queries, operators, joins, filtering, summarization |  
-| **SOC & Incident Response** | [Download](sections/SOC_IR.tsv) | Playbooks, automation, incident triage |  
+## 📦 Flashcard Downloads
+
+### Section Decks — best for topic-by-topic study
+- **Sentinel** — SIEM, analytics rules, incidents, hunting  
+- **M365 Defender** — EDR, investigation, automated response  
+- **Defender for Cloud** — Recommendations, Secure Score, compliance  
+- **KQL** — operators, joins, filters, summarize  
+- **SOC & Incident Response** — playbooks, automation, triage
+
+> Files are in the repo folders: `SC200_Section_Decks/` and `SC200_Exam_Decks/`.
+
+### Exam Packs — quick knowledge recall
+- **Exam 1–3** — core SC-200 facts aligned to Microsoft Learn modules  
+- **Combined Pack** — merged set for full review
+
+### Scenario Sets — exam-style applied practice
+- **Set 1** — Sentinel incidents, automation, watchlists, Secure Score  
+- **Set 2** — IR workflows, UEBA/Fusion ML, advanced hunting & automation
 
 ---
 
-### 📝 Exam Packs — *Best for quick knowledge recall*  
-| Pack | File | Description |  
-|------|------|-------------|  
-| **Exam 1** | [Download](exams/Exam1.tsv) | Core SC-200 facts aligned to Microsoft Learn modules |  
-| **Exam 2** | [Download](exams/Exam2.tsv) | More practice flashcards for exam prep |  
-| **Exam 3** | [Download](exams/Exam3.tsv) | Additional SC-200 coverage |  
-| **Combined Pack** | [Download](exams/Exam_Combined.tsv) | All exam packs merged |  
+### 📥 One-Click Downloads
+
+Prefer ready-to-import Anki packages?  
+Grab the latest `.apkg` release here:
+
+[![Download Latest Deck](https://img.shields.io/github/v/release/juansasoc/Microsoft-SC-200-Anki-Flashcards?display_name=tag&sort=semver)](https://github.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/releases/latest)
+
+**How to publish updates**
+1. Export decks from Anki as `.apkg`.  
+2. Go to **Releases → Draft a new release**.  
+3. Tag a version (e.g., `v1.0.0`) and upload the `.apkg` file(s).  
+4. Users can then download and import in one click.
 
 ---
 
-### 🎯 Scenario Sets — *Best for exam-style applied practice*  
-| Set | File | Focus Areas |  
-|-----|------|-------------|  
-| **Set 1** | [Download](SC-200_Scenario_Cards_Set1.tsv) | Sentinel incidents, automation, KQL basics, watchlists, Secure Score |  
-| **Set 2** | [Download](SC-200_Scenario_Cards_Set2.tsv) | Incident response, UEBA/Fusion ML, advanced automation, threat hunting |  
+## 🚀 Import Instructions (Anki)
 
-
-
-
-
----
-
-## 🛠 Import Instructions
-
-1. Download one of the `.tsv` sets above.  
-2. Open Anki → **File → Import** → select the `.tsv`.  
-3. Map fields as: **Front**, **Back**, **Tags**.  
-4. Import into your SC-200 deck.
-
----
-
-
----
-
-## 📂 Details of Each Set
-
-### Set 1 – Core Sentinel & KQL Scenarios
-- **File:** [`SC-200_Scenario_Cards_Set1.tsv`](tsv/SC-200_Scenario_Cards_Set1.tsv)
-- **Topics Covered:**
-  - Sentinel incidents, automation rules, data connectors
-  - KQL query patterns (extend, joins, outliers)
-  - Watchlists, Secure Score, Defender integrations
-  - Threat Intel and basic hunting techniques
-
-### Set 2 – Incident Response, UEBA, & Advanced Hunting
-- **File:** [`SC-200_Scenario_Cards_Set2.tsv`](tsv/SC-200_Scenario_Cards_Set2.tsv)
-- **Topics Covered:**
-  - Incident response workflows (isolation, blocking, live response)
-  - UEBA, Fusion ML correlation rules
-  - Advanced automation with playbooks and external integrations
-  - Threat hunting for Kerberos, RDP, persistence, and exfiltration
-  - Defender for Endpoint, Defender for Cloud Apps, and Cloud integrations
+1. Download any `.tsv` or `.apkg` file from this repo or a release.  
+2. In **Anki**: *File → Import* and choose the file.  
+3. Field mapping: **Front**, **Back**, **Tags**.  
+4. Import → study.
 
 ---
 
 ## ✅ Study Recommendations
 
-- Use these cards as **memory anchors**.  
-- Pair with:
-  - Microsoft Learn SC-200 modules (review twice).    
-  - Hands-on Sentinel & Defender labs for applied skills.  
-
-These decks ensure both **fact recall** and **scenario-based reasoning**, closely matching the SC-200 exam format.
-## 📖 How to Import into Anki
-1. Download the `.tsv` file you want.  
-2. In Anki: **File → Import**.  
-3. Select the file.  
-4. Choose **Tab-separated**, with **Field 1 = Front** and **Field 2 = Back**.  
-5. Import → start studying 🚀  
+- Use these cards as **memory anchors** after completing the corresponding **Microsoft Learn** modules and **labs**.  
+- Alternate between **section decks** (depth) and **exam packs** (breadth) until you can consistently score high on practice.  
+- Apply KQL cards while working through Microsoft Sentinel hunting or Defender XDR queries for real-world retention.
 
 ---
 
-## 🔗 Helpful Links
-- [Official SC-200 Exam Page](https://learn.microsoft.com/en-us/certifications/exams/sc-200/)  
-- [Microsoft Learn SC-200 Study Guide](https://learn.microsoft.com/en-us/training/courses/sc-200t00)  
-- [Anki (Download)](https://apps.ankiweb.net/)  
-- [Anki Manual](https://docs.ankiweb.net/)  
+## 📚 Resources
+
+**Certification & Study Guide**  
+- Microsoft Certified: *Security Operations Analyst Associate*  
+  https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/  
+- Study guide for Exam SC-200 (skills measured & updates)  
+  https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/sc-200
+
+**Official Course & Readiness**  
+- Course **SC-200T00-A**: Microsoft Security Operations Analyst  
+  https://learn.microsoft.com/en-us/training/courses/sc-200t00  
+- **Exam Readiness Zone** (SC-200 video series)  
+  - [Part 1 – Manage a security operations environment](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-200-manage-a-security-operations-environment)  
+  - [Part 2 – Configure protections & detections](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-200-configure-protections-and-detections)
+
+**Practice (Microsoft-official)**  
+- Free Microsoft **Practice Assessments** (access via exam page)  
+  https://learn.microsoft.com/en-us/credentials/certifications/practice-assessments-for-microsoft-certifications
+
+**This Repository**  
+- **Section Decks / Exam Packs / Scenario Sets** — use alongside labs for spaced repetition and applied recall.
 
 ---
 
-## 🛠 About
-This repo contains study flashcards organized into **sections** and **exam-style packs** to match the SC-200 exam structure.  
-Contributions and corrections are welcome!  
-
----
-
-<!--  
-## 🚀 Next Steps (Future)
-Once `.apkg` exports are ready, we’ll also publish them as GitHub Releases.
-
-1. Export decks from Anki as `.apkg`.  
-2. Go to **Releases → Draft a new release**.  
-3. Tag a version (e.g., `v1.0.0`) and upload the `.apkg` file(s).  
-4. Users can then download and import in one click.  
-
-[![Download Latest Deck](https://img.shields.io/github/v/release/juansasoc/Microsoft-SC-200-Anki-Flashcards?display_name=tag&sort=semver)](https://github.com/juansasoc/Microsoft-SC-200-Anki-Flashcards/releases/latest)
--->
-
+© juansasoc — Educational use only. All Microsoft trademarks and materials are the property of Microsoft Corporation.
