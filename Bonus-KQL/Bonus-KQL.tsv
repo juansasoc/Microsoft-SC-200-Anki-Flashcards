@@ -1,0 +1,21 @@
+What is where operator?	Filters rows.
+What problem does where operator solve?	It addresses security needs related to where operator.
+How is where operator used in security operations?	It supports operational workflows that involve where operator functions.
+What is project operator?	Shapes columns.
+What problem does project operator solve?	It addresses security needs related to project operator.
+How is project operator used in security operations?	It supports operational workflows that involve project operator functions.
+What is summarize operator?	Aggregates data.
+What problem does summarize operator solve?	It addresses security needs related to summarize operator.
+How is summarize operator used in security operations?	It supports operational workflows that involve summarize operator functions.
+What is join operator?	Correlates tables.
+What problem does join operator solve?	It addresses security needs related to join operator.
+How is join operator used in security operations?	It supports operational workflows that involve join operator functions.
+What is extend operator?	Adds calculated fields.
+What problem does extend operator solve?	It addresses security needs related to extend operator.
+How is extend operator used in security operations?	It supports operational workflows that involve extend operator functions.
+What is distinct operator?	Removes duplicates.
+What problem does distinct operator solve?	It addresses security needs related to distinct operator.
+How is distinct operator used in security operations?	It supports operational workflows that involve distinct operator functions.
+What is order by?	Sorts output.
+What problem does order by solve?	It addresses security needs related to order by.
+How is order by used in security operations?	It supports operational workflows that involve order by functions.

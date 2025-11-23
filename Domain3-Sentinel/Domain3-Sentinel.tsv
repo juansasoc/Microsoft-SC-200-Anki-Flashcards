@@ -1,0 +1,21 @@
+What is Microsoft Sentinel?	Cloud-native SIEM/SOAR.
+What problem does Microsoft Sentinel solve?	It addresses security needs related to microsoft sentinel.
+How is Microsoft Sentinel used in security operations?	It supports operational workflows that involve microsoft sentinel functions.
+What is Log Analytics Workspace?	Log storage and query engine.
+What problem does Log Analytics Workspace solve?	It addresses security needs related to log analytics workspace.
+How is Log Analytics Workspace used in security operations?	It supports operational workflows that involve log analytics workspace functions.
+What is Data Connectors?	Methods to ingest data.
+What problem does Data Connectors solve?	It addresses security needs related to data connectors.
+How is Data Connectors used in security operations?	It supports operational workflows that involve data connectors functions.
+What is Analytics Rules?	Logic to detect threats.
+What problem does Analytics Rules solve?	It addresses security needs related to analytics rules.
+How is Analytics Rules used in security operations?	It supports operational workflows that involve analytics rules functions.
+What is Incidents?	Grouped alerts for investigation.
+What problem does Incidents solve?	It addresses security needs related to incidents.
+How is Incidents used in security operations?	It supports operational workflows that involve incidents functions.
+What is Playbooks?	Automated response workflows.
+What problem does Playbooks solve?	It addresses security needs related to playbooks.
+How is Playbooks used in security operations?	It supports operational workflows that involve playbooks functions.
+What is Workbooks?	Customizable dashboards.
+What problem does Workbooks solve?	It addresses security needs related to workbooks.
+How is Workbooks used in security operations?	It supports operational workflows that involve workbooks functions.

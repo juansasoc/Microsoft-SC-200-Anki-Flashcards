@@ -1,0 +1,21 @@
+What is Password Spray Detection?	Identify repeated failed logins.
+What problem does Password Spray Detection solve?	It addresses security needs related to password spray detection.
+How is Password Spray Detection used in security operations?	It supports operational workflows that involve password spray detection functions.
+What is Impossible Travel?	Geo anomalies in sign-ins.
+What problem does Impossible Travel solve?	It addresses security needs related to impossible travel.
+How is Impossible Travel used in security operations?	It supports operational workflows that involve impossible travel functions.
+What is Suspicious PowerShell?	Encoded or unusual PowerShell commands.
+What problem does Suspicious PowerShell solve?	It addresses security needs related to suspicious powershell.
+How is Suspicious PowerShell used in security operations?	It supports operational workflows that involve suspicious powershell functions.
+What is OAuth Abuse?	Risky OAuth app activity.
+What problem does OAuth Abuse solve?	It addresses security needs related to oauth abuse.
+How is OAuth Abuse used in security operations?	It supports operational workflows that involve oauth abuse functions.
+What is Inbox Rule Abuse?	Malicious mailbox rules.
+What problem does Inbox Rule Abuse solve?	It addresses security needs related to inbox rule abuse.
+How is Inbox Rule Abuse used in security operations?	It supports operational workflows that involve inbox rule abuse functions.
+What is RDP Brute Force?	Failed RDP attempts.
+What problem does RDP Brute Force solve?	It addresses security needs related to rdp brute force.
+How is RDP Brute Force used in security operations?	It supports operational workflows that involve rdp brute force functions.
+What is Data Exfiltration?	Large or unusual data movement.
+What problem does Data Exfiltration solve?	It addresses security needs related to data exfiltration.
+How is Data Exfiltration used in security operations?	It supports operational workflows that involve data exfiltration functions.

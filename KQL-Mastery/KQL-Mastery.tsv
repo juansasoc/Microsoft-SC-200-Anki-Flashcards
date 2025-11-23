@@ -1,0 +1,21 @@
+What is materialize()?	Cache intermediate results.
+What problem does materialize() solve?	It addresses security needs related to materialize().
+How is materialize() used in security operations?	It supports operational workflows that involve materialize() functions.
+What is bag_unpack()?	Expand dynamic fields.
+What problem does bag_unpack() solve?	It addresses security needs related to bag_unpack().
+How is bag_unpack() used in security operations?	It supports operational workflows that involve bag_unpack() functions.
+What is toscalar()?	Extract scalar values.
+What problem does toscalar() solve?	It addresses security needs related to toscalar().
+How is toscalar() used in security operations?	It supports operational workflows that involve toscalar() functions.
+What is project-keep?	Keep specific columns.
+What problem does project-keep solve?	It addresses security needs related to project-keep.
+How is project-keep used in security operations?	It supports operational workflows that involve project-keep functions.
+What is bin()?	Time bucketing.
+What problem does bin() solve?	It addresses security needs related to bin().
+How is bin() used in security operations?	It supports operational workflows that involve bin() functions.
+What is case()?	Conditional logic.
+What problem does case() solve?	It addresses security needs related to case().
+How is case() used in security operations?	It supports operational workflows that involve case() functions.
+What is extract()?	Regex extraction.
+What problem does extract() solve?	It addresses security needs related to extract().
+How is extract() used in security operations?	It supports operational workflows that involve extract() functions.
