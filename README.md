@@ -1,4 +1,5 @@
 
+![SC-200 Anki Flashcards](sc200_anki_flashcards_banner.png)
 
 **SC-200 Anki Flashcards**
 
